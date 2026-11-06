@@ -1,0 +1,9 @@
+[package]
+name = "order_book_engine"
+version = "0.1.0"
+edition = "2021"
+description = "Price-time priority limit order book with partial fills, cancellation, and trade execution"
+
+[dependencies]
+
+[dev-dependencies]
